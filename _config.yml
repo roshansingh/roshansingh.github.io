@@ -27,7 +27,8 @@ github_username:  roshansingh
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+remote_theme: chesterhow/tale
 plugins:
   - jekyll-feed
 
