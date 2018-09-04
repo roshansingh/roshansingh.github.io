@@ -3,7 +3,7 @@ id: 626
 title: Ride List
 date: 2014-11-26T10:38:55+00:00
 author: Roshan Singh
-layout: page
+layout: post
 guid: http://roshansingh.in/blog/?page_id=626
 dsq_thread_id:
   - "3264258180"

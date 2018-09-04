@@ -3,7 +3,7 @@ id: 392
 title: Interesting Bits
 date: 2011-11-05T14:38:11+00:00
 author: Roshan Singh
-layout: page
+layout: post
 guid: http://roshansingh.in/blog/?page_id=392
 dsq_thread_id:
   - "951130976"

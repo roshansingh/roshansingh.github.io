@@ -27,11 +27,13 @@ github_username:  roshansingh
 
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: tale
 remote_theme: chesterhow/tale
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
+paginate: 5
+paginate_path: "/page/:num/"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
