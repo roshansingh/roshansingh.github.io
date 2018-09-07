@@ -27,8 +27,9 @@ github_username:  roshansingh
 
 # Build settings
 markdown: kramdown
-#heme: tale
+#theme: tale
 #remote_theme: poole/lanyon
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
