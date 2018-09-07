@@ -16,7 +16,7 @@ tags:
 ---
 I was working on a feature recently which needed a streaming job that runs 24&#215;7 and processing 100 million rows per day. The spark web ui is a wonderful tool to look at how things are running internally. While debugging I noticed that the streaming jobs were getting allocated to only one machine. Spark has a set priority to dispatch jobs to the executors based on proximity (on the same host, in the same pool etc) and if they complete the job within a fixed interval then all the jobs are sent to the same executor.
 
-<a href="http://roshansingh.in/2016/10/28/spark-streaming-fixing-all-executors-not-getting-jobs/executor/#main" rel="attachment wp-att-683"><img class="wp-image-683 aligncenter" src="http://roshansingh.in/wp-content/uploads/2016/10/executor-300x145.png" alt="executor" width="811" height="392" srcset="http://roshansingh.in/wp-content/uploads/2016/10/executor-300x145.png 300w, http://roshansingh.in/wp-content/uploads/2016/10/executor-768x371.png 768w, http://roshansingh.in/wp-content/uploads/2016/10/executor-1024x494.png 1024w, http://roshansingh.in/wp-content/uploads/2016/10/executor.png 1349w" sizes="(max-width: 811px) 100vw, 811px" /></a>
+<img class="wp-image-683 aligncenter" src="/wp-content/uploads/2016/10/executor-300x145.png" alt="executor" width="811" height="392" srcset="/wp-content/uploads/2016/10/executor-300x145.png 300w, /wp-content/uploads/2016/10/executor-768x371.png 768w, /wp-content/uploads/2016/10/executor-1024x494.png 1024w, /wp-content/uploads/2016/10/executor.png 1349w" sizes="(max-width: 811px) 100vw, 811px" />
 
 <pre>spark.scheduler.mode FAIR
 spark.locality.wait 100ms</pre>
