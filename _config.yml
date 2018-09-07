@@ -29,7 +29,7 @@ github_username:  roshansingh
 markdown: kramdown
 theme: tale
 #remote_theme: chesterhow/tale
-remote_theme: rosario/kasper
+remote_theme: poole/lanyon
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
