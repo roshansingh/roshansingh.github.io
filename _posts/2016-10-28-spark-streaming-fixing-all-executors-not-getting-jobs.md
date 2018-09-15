@@ -12,7 +12,7 @@ categories:
   - Coding
 tags:
   - spark
-  - spark streaming
+  - spark-streaming
 ---
 I was working on a feature recently which needed a streaming job that runs 24&#215;7 and processing 100 million rows per day. The spark web ui is a wonderful tool to look at how things are running internally. While debugging I noticed that the streaming jobs were getting allocated to only one machine. Spark has a set priority to dispatch jobs to the executors based on proximity (on the same host, in the same pool etc) and if they complete the job within a fixed interval then all the jobs are sent to the same executor.
 

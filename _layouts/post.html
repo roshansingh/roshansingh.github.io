@@ -5,11 +5,18 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+  {% if page.tags.size > 0 %}
+  <span class="post-tags">[
+    {% for tag in page.tags %}  
+      <a href="/tag/{{ tag }}"><code class="highligher-rouge">{{ tag }}</code></a>
+    {% endfor %}
+  ]</span>
+  {% endif %}
   {{ content }}
 </div>
 
 <div class="related">
-  <h2>Related Posts</h2>
+  <h2>Recent Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>

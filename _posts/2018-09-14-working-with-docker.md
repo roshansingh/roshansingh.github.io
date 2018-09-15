@@ -1,7 +1,16 @@
 ---
-published: false
+id: 698
+title: Working with docker
+date: 2018-09-14T01:11:05+00:00
+author: Roshan Singh
+layout: post
+guid: http://roshansingh.in/?p=698
+permalink: /2018/09/14/working-with-docker/
+dsq_thread_id:
+  - "6389935148"
+tags:
+  - docker
 ---
-## Working with docker
 
 During migration of a website which has not been updated in a while, it occured to me that docker will be ideal for this website. It did not have a lot of traffic and business impact was also less. 
 
