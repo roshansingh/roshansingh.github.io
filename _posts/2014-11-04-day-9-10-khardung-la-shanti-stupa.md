@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
-  - Motorcycle trip
+  - ladakh
+  - leh
+  - motorcycle-trip
 ---
 There was a marathon from Khardungla to Leh so the the roads were closed for first half. I could barely walk there, wonder how people managed to run. Leh also has less oxygen as per my experience. It is nearly 55 km from Leh. Half of the road is good and rest is gravel.
 

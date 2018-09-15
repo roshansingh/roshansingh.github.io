@@ -14,7 +14,6 @@ tags:
   - compiling
   - evolution
   - svn
-  - untstable repository for evolution
 ---
 It has been a painful experience downloading and installing EVOLUTION. Huh! due to my GPRS connection which is very slow it took me a long time to download it also i had to begin from starting for two times as my modem hung.
 

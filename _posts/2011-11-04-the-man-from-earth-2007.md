@@ -10,6 +10,8 @@ dsq_thread_id:
   - "950826894"
 categories:
   - Uncategorized
+tags:
+  - movie
 ---
 On recommendation of a colleague,  I watched this movie &#8216;<a title="The Man from Earth" href="http://www.imdb.com/title/tt0756683/" target="_blank">The man from earth</a>&#8216; yesterday.
 

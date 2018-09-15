@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Leh
+  - leh
   - manali
-  - Motorcycle trip
+  - motorcycle-trip
 ---
 I went on this trip with 4 college friends whom I had managed to cajole into this. Flight tickets were booked from Bangalore to Chandigarh. I had already shipped my bike to Chandigarh using GATI which was waiting for me. We rented 3 more bikes from <http://www.bikerentalsmanali.com/>. We booked it there after testing it. Recommend others doing the same. If you have your own bike which is more than 200cc you should carry yours, saves the hassle of dealing with rentals and you can not really rely completely on rented bikes.
 

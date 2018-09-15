@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Java
 tags:
-  - JUnit
+  - junit
 ---
 I have learnt some automated testing with JUnit. Junit is a java package which lets you write test suites so that you can simply run them when you program is done. It is good for software development as you can re-run the same tests again and again, and you can save some time and even avoid human generated error as missing out a particular test that happens with me over and over as I tend to forget cases.
   

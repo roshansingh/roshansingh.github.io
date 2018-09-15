@@ -11,8 +11,8 @@ dsq_thread_id:
 categories:
   - Linux
 tags:
-  - hack session
-  - Linux
+  - hack-session
+  - linux
 ---
 I tried to set up an svn server on my laptop today as I have organized a hack session today to bring in more people for hacking FOSS.
   

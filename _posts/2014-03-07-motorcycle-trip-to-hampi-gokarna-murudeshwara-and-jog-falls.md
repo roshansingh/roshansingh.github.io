@@ -11,15 +11,15 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Bajaj Avenger
-  - Gokarna
-  - Hampi
-  - Jog Falls
-  - Motorcycle trip
-  - Murudeshwara
-  - Scuba dive
-  - Solo
-  - Western Ghats
+  - bajaj-avenger
+  - gokarna
+  - hampi
+  - jog-falls
+  - motorcycle-trip
+  - murudeshwara
+  - scuba-dive
+  - solo
+  - western-ghats
 ---
 After a lot of planning I left for my solo motorcycle ride from Bangalore to Hampi, Gokarna, Murudeshwara and Jog Falls. I started from Bangalore on Feb 22 and came back on March 1. I rode around 1400 kms. This post is a travel log. There is enough information available about all these places on the internet.
 

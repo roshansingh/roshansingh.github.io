@@ -11,8 +11,8 @@ dsq_thread_id:
 categories:
   - Help
 tags:
-  - Help
-  - Orkut
+  - help
+  - orkut
 ---
 People think that orkut is just a time pass&#8230;
 

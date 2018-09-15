@@ -8,8 +8,8 @@ guid: http://roshansingh.in/blog/?p=524
 permalink: /2014/02/10/you-are-not-alone/
 dsq_thread_id:
   - "2247506635"
-categories:
-  - Life
+tags:
+  - life
 ---
   * You are not the first one to be in the situation.
   * You are not the only one in that situation.

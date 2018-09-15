@@ -17,9 +17,9 @@ related:
 categories:
   - Linux
 tags:
-  - Airtel GPRS
+  - airtel-gprs
   - bluetooth
-  - Linux
+  - linux
 ---
 Finally, I was able to configure **airtel gprs** on **Linux** via **bluetooth**. Was not difficult at all. Google is like a friend always available when y. Was not able to use kinternet which usually others prefer to use but then what i did works&#8230;.
 

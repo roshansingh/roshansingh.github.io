@@ -23,7 +23,7 @@ dsq_thread_id:
 categories:
   - FOSS
 tags:
-  - Nonameconf
+  - nonameconf
 ---
 I had missed FOSS.in again due to some reasons, so I had planned to go to [Nonameconf](http://nonameconf.in). I went with vignesh. While I was trying to find the building where it was supposed to be, I saw a bike tripping over. I had never seen an accident like this before. I immediately rushed towards them, had no clues what to do. I helped the person get up. The pillion rider was hurt, he was not able to stand also. Some people came with water to help them. After a while I left.
 

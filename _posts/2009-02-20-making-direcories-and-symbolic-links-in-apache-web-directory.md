@@ -18,7 +18,7 @@ categories:
   - Linux
 tags:
   - apache
-  - Linux
+  - linux
 ---
 This made me worried for the past two days. Thanks to IRC I got the solution.
   

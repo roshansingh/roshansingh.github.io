@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Linux
 tags:
-  - Linux
+  - linux
   - pidgin
-  - proxy setting
+  - proxy-setting
   - svn
 ---
 As our college has installed new proxy server, it has become difficult for people to use Linux. So I spent some time and then found out ways to resolve some problems.

@@ -11,10 +11,10 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
+  - ladakh
+  - leh
   - manali
-  - Motorcycle trip
+  - motorcycle-trip
 ---
 I woke up early around 5 am. I looked out of the window to realize where I was sleeping, among the mountains and there was greenery all around. Suddenly the thought of bike came to my mind,  I rushed outside immediately to check if my bike was still there. Breathed a sigh of relief after I saw it. Went back, took bath and packed my stuff. Ready to ride!
 

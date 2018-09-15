@@ -18,9 +18,9 @@ categories:
   - Linux
 tags:
   - git
-  - LDTP
-  - Linux
-  - proxy setting
+  - ldtp
+  - linux
+  - proxy-setting
 ---
 GIT is another software used for version control as SVN or CVS. Today when I was at gym Shreyank requested me to find out a possible solution for using GIT as he saw what I had posted earlier to use SVN and Pidgin. He was really very happy to see Pidgin working.
 

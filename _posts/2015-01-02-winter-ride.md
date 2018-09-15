@@ -11,12 +11,12 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Agumbe
-  - Chikmangalur
-  - Kudremukh
-  - Motorcycle trip
-  - Mudigere
-  - Sringeri
+  - agumbe
+  - chikmangalur
+  - kudremukh
+  - motorcycle-trip
+  - mudigere
+  - sringeri
 ---
 2014 was an incredible year for me. I travelled a lot. I decided to end this year with another ride with some fellow bikers. This was a 4-day ride in which I covered Mudigere, Kudremukh, Sringeri, Agumbe, Chikmanglur and Mullayangiri.
 

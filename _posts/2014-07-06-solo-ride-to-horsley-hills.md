@@ -13,9 +13,9 @@ full_width_featured_image:
 categories:
   - Travel
 tags:
-  - horsley hills
-  - Motorcycle trip
-  - travel log
+  - horsley-hills
+  - Motorcycle-trip
+  - travel-log
 ---
 <span style="color: #333333;">It was a lazy Sunday morning and I was cleaning my flat. My cousin called me up and said that he is driving from Bhillai to Tirupathi and asked me to meet him at Tirupathi. I told him that I would check if I was free and let him know. I just wanted to check the distance from Bangalore to Tirupathi 😉 It was around 260 km. Then I logged on to BB to check if there is anything in between to to make a quick stop. There it was &#8211; Horsley Hills. Looked up google for photos, it looked interesting. Called my cousin to confirm the trip.</span>
 

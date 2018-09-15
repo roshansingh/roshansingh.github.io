@@ -12,7 +12,7 @@ categories:
   - Linux
 tags:
   - codecracker
-  - coding contest
+  - coding-contest
 ---
 Codecracker, the online judge of [our college](http://www.nitdgp.ac.in) designed and developed by [GLUG](http://lug.nitdgp.ac.in) last year is all set again for a new round. The pattern is changed a little bit. This time we have six questions, two easy, two medium and two difficult. It is scheduled on Feb 3, 2009 from 10 P.M. to 12 P.M. IST.
 

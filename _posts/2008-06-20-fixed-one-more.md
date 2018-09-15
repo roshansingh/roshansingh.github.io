@@ -13,7 +13,7 @@ categories:
   - EVOLUTION/NOSIP
   - Linux
 tags:
-  - Bug fix
+  - bug-fix
   - evolution
 ---
 Finally I have moved past the difficult time 🙂 and have fixed another [bug](http://bugzilla.gnome.org/show_bug.cgi?id=513438) . Added some general checks to validate the email id and phone number. This one was easy. It gave me some opportunity to work with &#8220;GLib&#8221; which can be used simply like the general int,chars etc and it has various added features. I have also understood how to use doc packages now.</a>

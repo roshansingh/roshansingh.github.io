@@ -12,7 +12,7 @@ categories:
   - Linux
 tags:
   - javac
-  - Linux
+  - linux
 ---
 This was a problem faced by my friend. He happens to use only JAVA that too JAVAC. He does not like to use Netbeans I don&#8217;t know why. And he said that it was the only problem that stopped him from using Linux. So I decided to help him. These were some links which were really helpful.
 

@@ -12,7 +12,7 @@ categories:
   - Help
   - Linux
 tags:
-  - software installation
+  - linux
 ---
 This is the requirement of all the people in my college and many others. Initially it was a big problem for me also but later I was able to resolve it.
 

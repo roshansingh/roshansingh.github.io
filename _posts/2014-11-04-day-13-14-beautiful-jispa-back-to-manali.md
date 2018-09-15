@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
-  - Motorcycle trip
+  - ladakh
+  - leh
+  - motorcycle-trip
 ---
 We decided to take the day off and enjoy this beautiful village. Jispa is a very small village with couple of hotels and tents. Green trees, a river and snow filled mountain tops. We decided to head to the river.
 

@@ -11,7 +11,8 @@ dsq_thread_id:
 categories:
   - Uncategorized
 tags:
-  - NTFS support on Linux
+  - ntfs
+  - linux
 ---
 I have shifted to Ubuntu after using openSUSE and I must admit that I am totally impressed by Ubuntu. Its repositories are simply amazing. You can search and install almost everything that you require even linuxdcpp. Also I have seen that Ubuntu is highly documented when I was browsing through the LTSP section.
 

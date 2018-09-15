@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - GScribble
 tags:
-  - GScribble
+  - gscribble
 ---
 I really feel proud to announce that I have written a client of my own today for posting contents on my blog.
   

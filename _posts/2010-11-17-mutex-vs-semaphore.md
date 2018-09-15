@@ -17,8 +17,8 @@ dsq_thread_id:
 categories:
   - Coding
 tags:
-  - Mutex
-  - Semaphore
+  - mutex
+  - semaphore
 ---
 The title seemed to bug me a lot, until today when i found a really good explanation. If you google for the difference between Mutex and Semaphore you will see in most of the places it is mentioned that mutex is a binary semaphore. 
 

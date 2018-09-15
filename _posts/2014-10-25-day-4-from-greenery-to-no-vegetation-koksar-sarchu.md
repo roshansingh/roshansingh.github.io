@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
-  - Motorcycle trip
+  - ladakh
+  - leh
+  - motorcycle-trip
 ---
 Woke up to realize where we were. It was extremely beautiful with sun shining brilliantly between mountains, a river flowing by, a waterfall. It was a welcome surprise from the last day&#8217;s ride in mud. Roads were good for most part of the ride till Baralacha pass. You will also encounter a number of streams flowing on the road. The rubber boots were very useful.
 

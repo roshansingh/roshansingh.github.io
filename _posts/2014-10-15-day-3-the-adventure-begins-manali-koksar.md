@@ -11,10 +11,10 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
+  - ladakh
+  - leh
   - manali
-  - Motorcycle trip
+  - motorcycle-trip
   - rohtang
 ---
 We had reached Manali on a Sunday. Shops are closed on Sunday, so we could not buy most of the stuff, which meant we could not start early. The shops opened around 9:30 am. We bought bungee cords, plastic sheets, rubber shoes and plastic cans for carrying petrol. We went back to the hotel and by the time we started it was 1 pm already.

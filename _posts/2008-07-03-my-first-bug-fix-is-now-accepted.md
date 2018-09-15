@@ -13,7 +13,7 @@ categories:
   - EVOLUTION/NOSIP
   - Linux
 tags:
-  - Bug fix
+  - bug-fix
   - evolution
 ---
 It gives me immense pleasure to declare that my first bug fix is now accepted and available in the svn.It was committed to the trunk long back and I was waiting for it to become publicly available. Now it is available 🙂

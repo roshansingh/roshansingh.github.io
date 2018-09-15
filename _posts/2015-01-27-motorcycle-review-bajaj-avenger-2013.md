@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Uncategorized
 tags:
-  - Bajaj Avenger
-  - Motorcyle
-  - Review
+  - bajaj-avenger
+  - motorcyle
+  - review
 ---
 I bought Avenger in July 2013. Specification can be read at <http://www.bajajauto.com/avenger/>. I have toured extensively in Karnataka and Leh, so I think this review will definitely help you make up your mind.
 

@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Linux
 tags:
-  - Linux installation
+  - linux
 ---
 I am overwhelmed by the response of people to my previous post on installation of openSUSE from hard drive. So I have decided to give all the instructions from basic. I will discuss the general things, applicable to all distros, and the installation of openSUSE 11.0 in particular.
 

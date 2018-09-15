@@ -14,7 +14,7 @@ dsq_thread_id:
 categories:
   - Linux
 tags:
-  - Rhythmbox
+  - rhythmbox
 ---
 This is a problem that I faced once earlier also. However, I never cared to solve it then. The solution to this problem is on <http://www.mjmwired.net/resources/mjm-fedora-f11.html#binarycodecs>.
 

@@ -17,7 +17,7 @@ related:
 categories:
   - Linux
 tags:
-  - editing menu.lst
+  - editing-menu
 ---
 Yesterday I went to help a Professor from Mechanical Department who had mailed me for help. He was really struggling with windows as desperately wanted to get Linux installed as he was not familiar with windows software. He was the first man I have ever met who said that he was struggling with office excel and wanted Linux.
 

@@ -8,8 +8,8 @@ guid: http://roshansingh.in/blog/?p=466
 permalink: /2012/12/14/getting-middle-button-of-3m-ergonomic-mouse-towork/
 dsq_thread_id:
   - "974847846"
-categories:
-  - Linux
+tags:
+  - linux
 ---
 Yes that is a mouse. I use this at work.
 

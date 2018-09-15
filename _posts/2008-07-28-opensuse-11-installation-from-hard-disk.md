@@ -11,8 +11,8 @@ dsq_thread_id:
 categories:
   - Linux
 tags:
-  - Installtion
-  - openSUSE
+  - installtion
+  - opensuse
 ---
 openSUSE 11 was released during vacations. So I was waiting anxiously to download and use it. The day I came to college put my luggage in the room, managed to get the LAN wire patch ( I did not know where mine was) and checked for the internet. To my amazement the connection was proper and I was getting a download speed of around 1Mbps, it may be very commoin to you but in my college where we rarely get a speed of 50 kbps. I was thrilled. I started to download the iso which was around 4.2 GB. I managed to download it in 2 hours. I had gone mad. I told about this to every one I met.
 

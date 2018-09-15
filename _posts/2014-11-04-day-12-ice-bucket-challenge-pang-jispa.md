@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
-  - Motorcycle trip
+  - ladakh
+  - leh
+  - motorcycle-trip
 ---
 We woke up next day to freezing cold at Pang. One of the guys went to take a dump. After he was done, he noticed that water in the cans were frozen. Ice bucket challenge accepted 🙂 I leave the rest to your imagination.
 

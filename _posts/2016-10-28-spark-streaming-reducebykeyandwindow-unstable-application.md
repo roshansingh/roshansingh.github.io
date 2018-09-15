@@ -13,7 +13,7 @@ categories:
   - Uncategorized
 tags:
   - spark
-  - spark streaming
+  - spark-streaming
 ---
 I wanted to run a job which runs 24&#215;7 and which reports if certain keywords occur more than a N times in the stream. Spark streaming looked a ideal candidate for this task. Spark has a [reduceByKeyAndWindow function](http://spark.apache.org/docs/latest/streaming-programming-guide.html#window-operations) which was exactly what I was looking for.
 

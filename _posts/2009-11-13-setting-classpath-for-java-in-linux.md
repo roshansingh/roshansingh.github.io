@@ -12,7 +12,8 @@ categories:
   - Help
   - Linux
 tags:
-  - CLASSPATH in Java
+  - classpath
+  - java
 ---
 This was really tough for me since I had never used command line for compiling java programs, I always used Netbeans for coding in Java. Recently I started learning JUnit for which I decided to use command Line. 
 

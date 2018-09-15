@@ -26,7 +26,7 @@ categories:
 tags:
   - artha
   - fedora
-  - GScribble
+  - gscribble
   - packaging
 ---
 After a long time, today I finished packaging the newer versions of artha and gscribble for Fedora. The updates have been pushed to update-testing.

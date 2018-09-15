@@ -9,7 +9,7 @@ permalink: /2010/02/02/codecracker-3-0-stats/
 dsq_thread_id:
   - "950827259"
 categories:
-  - Linux
+  - linux
 ---
 Codecracker 3 was a major success among the three seasons of codecracker. Firstly, we went ahead to support four programming languages C, C++, Java and Python and secondly I was the admin ;-). This time we broke all the records of the past with the number of registered teams which rose exponentially to 195 :), with teams from 40+ engineering colleges including several IITs, IIITs, NITs and other engineering colleges.
 

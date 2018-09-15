@@ -13,9 +13,9 @@ categories:
   - EVOLUTION/NOSIP
   - Linux
 tags:
-  - Bug fix
+  - bug-fix
   - evolution
-  - Linux
+  - linux
 ---
 Yesterday after sitting continuously for 7 hours i was able to fix a bug on Evoltion. Was easy though, but I had no idea where to start. **#evolution and #nosip (jony) ( IRC CHATROOMS ON Gimpnet)** were very helpful. This was the  [bug](http://bugzilla.gnome.org/show_bug.cgi?id=395636) .
 

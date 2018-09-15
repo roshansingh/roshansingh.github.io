@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Life
 tags:
-  - body building
+  - body-building
   - workout
 ---
 I started to work out last year around the same time. I can clearly remember my first day to the gym. I had almost fainted after some running and some push ups. I was sweating profusely and trying to catch my breath while lying down on a mat. The 200 m walk to my home took more than 10 minutes and then I fell on my bed for another hour. That night after a lot of thinking I came to a conclusion that I had to get fit even if I had to go through what happened in the morning again.

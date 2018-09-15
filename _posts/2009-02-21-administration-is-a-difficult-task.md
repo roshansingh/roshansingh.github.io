@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Linux
 tags:
-  - server administration
+  - server-administration
 ---
 Just a week back I start to manage our [GLUG server](http://lug.nitdgp.ac.in) and since then it has turned out to be a nightmare for me. Every now and then something happens and people start pinging you. Whenever I go out and come to room I just type the url of the server on my browser to see if it is working. It adds a lot to your responsibilities.
 

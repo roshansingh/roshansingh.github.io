@@ -14,11 +14,10 @@ related:
   - 'a:3:{s:5:"title";s:39:"Problem due to incompatible Qt versions";s:7:"post_id";s:3:"311";s:9:"thumbnail";s:0:"";}'
   - 'a:3:{s:5:"title";s:57:"Rhythmbox id3 dumex missing plugin problem &#8212; solved";s:7:"post_id";s:3:"298";s:9:"thumbnail";s:0:"";}'
   - 'a:3:{s:5:"title";s:10:"messing up";s:7:"post_id";s:3:"283";s:9:"thumbnail";s:0:"";}'
-categories:
-  - Hacks
-  - Linux
 tags:
-  - Personalization
+  - hacks
+  - linux
+  - personalization
 ---
 I have used GNOME 3 for quite some time now. Of late the shell started to crash a lot, so I switched to Unity. I usually hate dark themes, I like bright desktop and larger fonts so that my eyes don&#8217;t get strained. It is great that people have so many useful gui tools for these things. These are my personal favorites:
 

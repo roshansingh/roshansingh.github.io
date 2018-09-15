@@ -11,8 +11,8 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
+  - ladakh
+  - leh
 ---
 This will be a series of posts about my recent Manali-Leh montorcycle trip.
 

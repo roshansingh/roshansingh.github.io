@@ -8,8 +8,8 @@ guid: http://roshansingh.in/blog/?p=697
 permalink: /2018/01/04/should-caste-based-reservation-be-allowed/
 dsq_thread_id:
   - "6389935148"
-categories:
-  - Essay
+tags:
+  - essay
 ---
 TL;DR: Caste based reservations should be allowed until caste based discrimination is stopped.
 

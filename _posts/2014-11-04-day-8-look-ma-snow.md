@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
-  - Motorcycle trip
+  - ladakh
+  - leh
+  - motorcycle-trip
 ---
 Day 7 was spent mostly on bed as I was down with cold.
 

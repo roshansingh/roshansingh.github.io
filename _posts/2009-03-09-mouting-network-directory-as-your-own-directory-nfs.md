@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Linux
 tags:
-  - Linux
+  - linux
   - repo
 ---
 I manage our [local GLUG server](http://lug.nitdgp.ac.in/). And the server was running out of space. So I was thinking of some alternative, so NFS clicked my mind. I am trying to mirror Ubuntu repo for our college students. 

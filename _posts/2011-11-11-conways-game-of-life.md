@@ -8,8 +8,8 @@ guid: http://roshansingh.in/blog/?p=400
 permalink: /2011/11/11/conways-game-of-life/
 dsq_thread_id:
   - "950827084"
-categories:
-  - Hacks
+tags:
+  - hacks
 ---
 I came across this a few days back when my colleague showed me this. I was really fascinated with the patterns it was generating.
 

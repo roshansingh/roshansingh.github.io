@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
-  - Motorcycle trip
+  - ladakh
+  - leh
+  - motorcycle-trip
 ---
 We forgot to take Diamox in Sarchu. It was so cold that we could only think about eating and snuggling inside our beds.
 

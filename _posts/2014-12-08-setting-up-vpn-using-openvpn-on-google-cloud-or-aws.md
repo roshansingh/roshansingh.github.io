@@ -13,7 +13,7 @@ categories:
   - Linux
 tags:
   - aws
-  - google cloud
+  - google-cloud
   - vpn
 ---
 VPN is a good way to protect your cloud infrastructure from attacks. In the method below I will list down the step how to log in to your vpn machine and access the cloud LAN from you laptop.

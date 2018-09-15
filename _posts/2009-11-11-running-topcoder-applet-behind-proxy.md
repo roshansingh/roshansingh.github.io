@@ -11,8 +11,8 @@ dsq_thread_id:
 categories:
   - Linux
 tags:
-  - Linux
-  - Topcoder
+  - linux
+  - topcoder
 ---
 Somehow the default Iced Tea Webstart throws NullPointerException which I dont know how to debug. I downloaded SUN JDK and installed on my machine, you can use your package manager also. It usually gets installed in /usr/java/jdk-<version> and /usr/java/latest links to the latest version installed, so it is better to use the later. Then download the ContestApplet.jnlp and simply sun the following command to get it working.
 

@@ -11,8 +11,8 @@ dsq_thread_id:
 categories:
   - Linux
 tags:
-  - GNU
-  - Linux
+  - gnu
+  - linux
 ---
 As we all know that GNU is itself a recursive acronym which stands for &#8220;GNU Not UNIX&#8221;. While studying how translations are done and managed in opensource softwares i found out two amazing naming patterns **&#8220;I18n & L10n** &#8220;.
 

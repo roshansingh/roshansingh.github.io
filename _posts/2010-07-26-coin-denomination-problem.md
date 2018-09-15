@@ -17,9 +17,9 @@ dsq_thread_id:
 categories:
   - Coding
 tags:
-  - coin denomination
-  - DP
-  - Greedy
+  - coin-denomination
+  - dp
+  - greedy
 ---
 Coin denomination problem is a very common question asked in interviews. It involves Greedy Approach, Dynamic Programming and Recursion. You may find a lot of stuff on the internet if you just google out &#8220;Coin denomination problem&#8221;.
 

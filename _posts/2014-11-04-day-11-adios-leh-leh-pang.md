@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Travel
 tags:
-  - Ladakh
-  - Leh
-  - Motorcycle trip
+  - ladakh
+  - leh
+  - motorcycle-trip
 ---
 I spent next day walking around in Leh and tried Thukpa(Tibetan cuisine). Food is usually good in Leh but prices are generally high. Meanwhile I managed to find an optician and got new spectacles made.
 
