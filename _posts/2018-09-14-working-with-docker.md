@@ -7,7 +7,7 @@ During migration of a website which has not been updated in a while, it occured 
 
 So I gave myself a few days to deep dive and learn it. The documentation and getting started guide is just beautiful. Everything was explained properly and all the flags in the docker command were listed down with lot of examples. I will recommend spending a week if you are planning to use it. List down everything that you need and do a bit of research to understand how to do things. There are enough blogs available which can help you with that.
 
-** Good parts: ** 
+**Good parts:** 
 
 - Not having to worry about host system was such a game changer. I used mac to build my image and Ubuntu for production deployment. I could use any linux distribution for the base image.
 
@@ -21,7 +21,7 @@ So I gave myself a few days to deep dive and learn it. The documentation and get
 
 - Logs can be redicted to splunk with just a flag. If you ever had to setup log forwarders you know that it can be a painful experience if you have to do it manually on all the servers. In my case we have a leased data center so we don't have the luxury of using custom built images all the time.
 
-** Things to keep in mind: ** 
+**Things to keep in mind:** 
 
 - Since the containers can die and be restarted automatically. Sometimes it can be started on some other host machine than that it was originally running on. Persisting data like reports or uploaded files or images can be a pain if you do not use a cloud service like S3. You can mount a directory on host machine to the container so I mounted a NFS shared directory on all the docker host machines and then mounted it on the container.
 
