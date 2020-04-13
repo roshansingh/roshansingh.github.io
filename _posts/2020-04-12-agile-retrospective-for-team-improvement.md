@@ -33,12 +33,12 @@ Once you are done with idea generation phase, you need to arrange your tickets i
 
 ![Retrospective](https://waynedgrant.files.wordpress.com/2012/02/dsc_0019.jpg)Image courtesy: [https://waynedgrant.wordpress.com/2012/04/01/sprint-retrospective-techniques/](https://waynedgrant.wordpress.com/2012/04/01/sprint-retrospective-techniques/)
 
-Now the team should discuss these ideas and get clarification if they couldn't understand something. The ideas under "what went wrong" and "what caused confusion" can be merged. Similar ideas should be grouped to create a common theme. You can discard the "what went well" ideas since your team is already good at it.
+Now the team should discuss these ideas and get clarification if they couldn't understand something. At the end of the discussion, you can discard the "what went well" ideas since your team is already good at it. 
 
-At the end of the discussion phase you should have identified some common problems in the team which needs improvement.
+The ideas under "what went wrong" and "what caused confusion" should be merged. Similar ideas should be grouped to create a common theme. At the end of this phase, you should have identified some common problems in the team which needs improvement.
 
 ## Solution
-In this phase the team should vote on top 2-3 problems which they would like to address immediately in the next sprint. The team could collectively come up with ideas or use sticky notes to individually come up with ideas for every problem and vote on it.
+In this phase the team should vote on top 2-3 problems which they would like to address immediately in the next sprint. The team can either collectively come up with ideas or use sticky notes to individually come up with ideas for every problem and vote on it.
 
 At the end of retrospective meeting, they should create tickets for team improvement and add it to the next sprint. These tickets should be reviewed in their next retrospective to see how well they did on addressing these problems.
 
